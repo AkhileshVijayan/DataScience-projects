@@ -1,2 +1,2 @@
-# IIT--Guvi---Master-programming-in-Data-science
-# This is all about the task,assignments and project that I do during the course of this program.
+# IIT--Guvi---Advanced python programming and Master Data science
+# This is all about the task,assignments and projects that I did during the course of this program.
