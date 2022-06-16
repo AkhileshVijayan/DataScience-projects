@@ -42,7 +42,7 @@ Username: nlabs or avijayan
 
 Password: 98765 or 98765
 
-Once you enter the credentials correctly you will be able to see the below page. We can add both CSV & XlSX files in this application.
+Once you enter the credentials correctly you will be able to see the below page. We can add both CSV & XlSX files in this application. Please make use of the same CSV or XLSX file uploaded in the folder or make use of the same dataset format.
 
 ![Login2](https://user-images.githubusercontent.com/89348350/173998088-e6aa9468-2527-43b2-af97-b7dffb9c9e0b.PNG)
 
