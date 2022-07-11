@@ -40,7 +40,9 @@ FEATURE SCALING - Normalized and Standardized
 
 FEATURE SELECTION - Correlation /Mutual Information
 
-Model Building and Hyperparameter tuning 1.Linear Regression
+Model Building and Hyperparameter tuning 
+
+1.Linear Regression
 
 2.Ridge Regression
 
